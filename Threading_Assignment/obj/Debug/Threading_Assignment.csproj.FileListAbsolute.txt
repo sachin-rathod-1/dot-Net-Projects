@@ -1,0 +1,8 @@
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\obj\Debug\Threading_Assignment.csproj.AssemblyReference.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\obj\Debug\Threading_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\obj\Debug\Threading_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\bin\Debug\Threading_Assignment.exe.config
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\bin\Debug\Threading_Assignment.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\bin\Debug\Threading_Assignment.pdb
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\obj\Debug\Threading_Assignment.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Threading_Assignment\obj\Debug\Threading_Assignment.pdb

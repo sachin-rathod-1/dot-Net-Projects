@@ -1,0 +1,6 @@
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\bin\Debug\Subproject.dll
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\bin\Debug\Subproject.pdb
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\obj\Debug\Subproject.csproj.AssemblyReference.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\obj\Debug\Subproject.csproj.CoreCompileInputs.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\obj\Debug\Subproject.dll
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Subproject\obj\Debug\Subproject.pdb

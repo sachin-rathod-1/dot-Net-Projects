@@ -1,0 +1,25 @@
+﻿@model WebApplication2.Models.Student
+
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header text-center">
+                <h1>@Model.Name</h1>
+            </div>
+            <div class="text-center">
+
+                <img src="~/Image\img01.jpeg" width="300" height="300" class="rounded" alt="...">
+            </div>
+            <div class="card-body text-center">
+                <h4>Studnet ID : @Model.StudentId</h4>
+                <h4>Branch : @Model.Branch</h4>
+                <h4>Section : @Model.Section</h4>
+                <h4>Gender : @Model.Gender</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-action="GetAllStudentDetails" class="btn btn-primary">Back</a>
+            </div>
+        </div>
+    </div>
+</div>

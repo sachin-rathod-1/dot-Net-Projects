@@ -1,0 +1,8 @@
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\bin\Debug\Assignment1.exe.config
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\bin\Debug\Assignment1.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\bin\Debug\Assignment1.pdb
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\obj\Debug\PubSub.csproj.AssemblyReference.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\obj\Debug\PubSub.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\obj\Debug\PubSub.csproj.CoreCompileInputs.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\obj\Debug\Assignment1.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\PubSub\obj\Debug\Assignment1.pdb

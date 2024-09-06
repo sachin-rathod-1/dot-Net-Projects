@@ -1,0 +1,8 @@
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\bin\Debug\Learn LINQ Queries.exe.config
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\bin\Debug\Learn LINQ Queries.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\bin\Debug\Learn LINQ Queries.pdb
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\obj\Debug\Learn LINQ Queries.csproj.AssemblyReference.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\obj\Debug\Learn LINQ Queries.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\obj\Debug\Learn LINQ Queries.csproj.CoreCompileInputs.cache
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\obj\Debug\Learn LINQ Queries.exe
+C:\Users\rsach\OneDrive\Desktop\PG-DAC\.Net\Learn LINQ Queries\obj\Debug\Learn LINQ Queries.pdb

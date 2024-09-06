@@ -1,0 +1,27 @@
+﻿@model StudentViewModel
+<center><h1>Student Data</h1></center>
+<br/>
+<table class="table table-dark table-sm">
+    <tbody>
+        <tr>
+            <th> ID </th>
+            <th> Name</th>
+            <th> Gender</th>
+            <th> Branch</th>
+            <th> Section</th>
+            <th> City</th>
+            <th> Center</th>
+        </tr>
+        <tr>
+            <td>@Model.studentobj.Id</td>
+            <td>@Model.studentobj.Name</td>
+            <td>@Model.studentobj.Gender</td>
+            <td>@Model.studentobj.Branch</td>
+            <td>@Model.studentobj.Section</td>
+            <td>@Model.City</td>
+            <td>@Model.Center</td>
+
+        </tr>
+    </tbody>
+
+</table>

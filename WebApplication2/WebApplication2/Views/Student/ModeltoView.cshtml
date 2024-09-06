@@ -1,0 +1,27 @@
+﻿@model Student
+This is ModeltoView Page.
+<br />
+@ViewData["Cente"]
+<br/>
+@ViewBag.City
+<br/>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Section</th>
+            <th scope="col">Branch</th>
+            <th scope="col">Gender</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> @Model.StudentId</td>
+            <td> @Model.Name</td>
+            <td> @Model.Section</td>
+            <td> @Model.Branch</td>
+            <td> @Model.Gender</td>
+        </tr>
+            </tbody>
+</table>
